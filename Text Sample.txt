@@ -1,3 +1,7 @@
 Nama : Syauki Taufiqqur Rahman
 NIM : A11.2021.13290
 Matkul : Pemrograman berbasis web
+
+nama : syauki taufiqur rahman
+NIM : A11.2021.13290
+Matkul : Pemrograman berbasis Web
